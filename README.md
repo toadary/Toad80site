@@ -32,7 +32,7 @@ Ainda não esta finalizado
 - [ ] Criar responsividade
 - [ ] Adicionar efeito de hover nos botões
 
-## 📺 Tutorial no Youtube
+
 
 
 </a>
